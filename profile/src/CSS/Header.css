@@ -1,0 +1,7 @@
+body {
+  background: url("http://res.cloudinary.com/aymanxd/image/upload/v1490204085/jgoerugd_y4-john-towner-min_rmtlow.jpg") fixed;
+  position: relative;
+  z-index: -1;
+  min-height: 800px;
+  background-size: cover;
+}
